@@ -1,0 +1,2 @@
+rootProject.name='Notifications Wear OS'
+include ':app'
